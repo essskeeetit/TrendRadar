@@ -121,4 +121,12 @@ platforms:
     name: "知乎"
   - id: "github"
     name: "GitHub"
+  - id: "hackernews"
+    name: "Hacker News"
+  - id: "solidot"
+    name: "Solidot"
+  - id: "v2ex"
+    name: "V2EX"
+  - id: "chongbuluo"
+    name: "虫部落"
     
